@@ -1,0 +1,6 @@
+[submodule "RealityLeap-Copycheck-Back"]
+	path = RealityLeap-Copycheck-Back
+	url = https://github.com/Neexol/RealityLeap-Copycheck-Back.git
+[submodule "RealityLeap-Copycheck-Mobile"]
+	path = RealityLeap-Copycheck-Mobile
+	url = https://github.com/Neexol/RealityLeap-Copycheck-Mobile.git
